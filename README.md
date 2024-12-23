@@ -2,9 +2,9 @@
 
 # rails.nvim
 
-A lightweight Neovim plugin that adds a :Rails command for easy access to Artisan and Composer tasks.
+A lightweight Neovim plugin that adds a :Rails command for easy access to your favorite Rails tasks.
 
-**Shoutout to Claude for adapting [laravel.nvim](https://github.com/djaruun/laravel.nvim) for Rails and rewriting it in Lua!**
+*Shoutout to Claude for adapting [laravel.nvim](https://github.com/djaruun/laravel.nvim) for Rails and doing the initial Lua rewrite!*
 
 </div>
 
